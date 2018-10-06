@@ -2,12 +2,22 @@
 
 ## Installation
 
-1. Clone or download and extract git repository
+1. Clone git repository
+
+Via SSH:
+```
+git clone git@gitlab.com:totoroot/grub2-theme-waft.git
+```
+
+Via HTTPS:
+```
+https://gitlab.com/totoroot/grub2-theme-waft.git
+```
 
 2. Copy the whole directory with root privileges
 
 ```
-sudo cp -r waft /boot/grub/themes
+sudo cp -r grub2-theme-waft /boot/grub/themes
 ```
 
 3. Add line GRUB_THEME to grub
@@ -44,4 +54,5 @@ Open Sans by Google
 Released under:
 Apache License
 Version 2.0, January 2004
+
 https://www.apache.org/licenses/
