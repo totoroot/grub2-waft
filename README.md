@@ -6,18 +6,18 @@
 
 Via SSH:
 ```
-git clone git@gitlab.com:totoroot/grub2-theme-waft.git
+git clone git@gitlab.com:totoroot/grub2-waft.git
 ```
 
 Via HTTPS:
 ```
-https://gitlab.com/totoroot/grub2-theme-waft.git
+https://gitlab.com/totoroot/grub2-waft.git
 ```
 
 2. Copy the whole directory with root privileges
 
 ```
-sudo cp -r grub2-theme-waft /boot/grub/themes
+sudo cp -r grub2-waft /boot/grub/themes
 ```
 
 3. Add line GRUB_THEME to grub
@@ -27,7 +27,7 @@ sudo nano /etc/default/grub
 ```
 
 ```
-GRUB_THEME="/boot/grub/themes/waft/theme.txt"
+GRUB_THEME="/boot/grub/themes/grub2-waft/theme.txt"
 ```
 
 4. Update grub
