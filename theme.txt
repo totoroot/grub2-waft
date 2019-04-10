@@ -21,7 +21,7 @@ terminal-border: "0"
   width = 70%
   height = 60%
   item_font = "Open Sans Regular 16"
-  item_color = "#000000"
+  item_color = "#EEEEEE"
   selected_item_color = "#FFFFFF"
   item_height = 24
   item_spacing = 12
