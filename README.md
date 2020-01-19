@@ -4,14 +4,8 @@
 
 1. Clone git repository
 
-Via SSH:
 ```
-git clone git@gitlab.com:totoroot/grub2-waft.git
-```
-
-Via HTTPS:
-```
-https://gitlab.com/totoroot/grub2-waft.git
+https://github.com/totoroot/grub2-waft.git
 ```
 
 2. Copy the whole directory with root privileges
@@ -47,7 +41,7 @@ https://unsplash.com/photos/K4c8RymNeu8
 
 Change it easily by putting your own image into directory and renaming it to "theme.png".
 
-## Font
+## Font License
 
 Open Sans by Google
 
